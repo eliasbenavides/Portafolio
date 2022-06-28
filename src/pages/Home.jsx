@@ -11,7 +11,7 @@ const Home = () => {
       <div className='about'>
         <h2>Hi, My Name is Elías</h2>
         <div className='prompt'>
-          <p>A <b className='b'>A passionate Frontend Developer</b> with passion for learning and creating</p>
+          <p>A passionate<b className='b'> Frontend Developer</b> with passion for learning and creating</p>
           <a target="_blank" href="https://www.linkedin.com/in/elias-benavides/">
             <LinkedIn />
           </a>
