@@ -42,9 +42,9 @@ const Home = () => {
             </span>
           </li>
           <li className="item">
-            <h2>Other Skills</h2>
+            <h2>Soft Skills</h2>
             <span>
-              Git, SCRUM, Deployment, Good Practices,
+              Git, SCRUM, Deployment, Good Practices
             </span>
           </li>
         </ol>
